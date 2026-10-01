@@ -1,0 +1,12 @@
+/home/ltx/Dev/projects/XDocxV2/XDocxV2.Core/obj/Debug/net10.0/XDocxV2.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/ltx/Dev/projects/XDocxV2/XDocxV2.Core/obj/Debug/net10.0/XDocxV2.Core.AssemblyInfoInputs.cache
+/home/ltx/Dev/projects/XDocxV2/XDocxV2.Core/obj/Debug/net10.0/XDocxV2.Core.AssemblyInfo.cs
+/home/ltx/Dev/projects/XDocxV2/XDocxV2.Core/obj/Debug/net10.0/XDocxV2.Core.csproj.CoreCompileInputs.cache
+/home/ltx/Dev/projects/XDocxV2/XDocxV2.Core/obj/Debug/net10.0/XDocxV2.Core.sourcelink.json
+/home/ltx/Dev/projects/XDocxV2/XDocxV2.Core/bin/Debug/net10.0/XDocxV2.Core.deps.json
+/home/ltx/Dev/projects/XDocxV2/XDocxV2.Core/bin/Debug/net10.0/XDocxV2.Core.dll
+/home/ltx/Dev/projects/XDocxV2/XDocxV2.Core/bin/Debug/net10.0/XDocxV2.Core.pdb
+/home/ltx/Dev/projects/XDocxV2/XDocxV2.Core/obj/Debug/net10.0/XDocxV2.Core.dll
+/home/ltx/Dev/projects/XDocxV2/XDocxV2.Core/obj/Debug/net10.0/refint/XDocxV2.Core.dll
+/home/ltx/Dev/projects/XDocxV2/XDocxV2.Core/obj/Debug/net10.0/XDocxV2.Core.pdb
+/home/ltx/Dev/projects/XDocxV2/XDocxV2.Core/obj/Debug/net10.0/ref/XDocxV2.Core.dll
